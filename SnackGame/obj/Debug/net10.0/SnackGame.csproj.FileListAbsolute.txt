@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\BootCamp\Programming\SnackGame\SnackGame\bin\Debug\net10.0\SnackGame.exe
+C:\Users\user\Desktop\BootCamp\Programming\SnackGame\SnackGame\bin\Debug\net10.0\SnackGame.deps.json
+C:\Users\user\Desktop\BootCamp\Programming\SnackGame\SnackGame\bin\Debug\net10.0\SnackGame.runtimeconfig.json
+C:\Users\user\Desktop\BootCamp\Programming\SnackGame\SnackGame\bin\Debug\net10.0\SnackGame.dll
+C:\Users\user\Desktop\BootCamp\Programming\SnackGame\SnackGame\bin\Debug\net10.0\SnackGame.pdb
+C:\Users\user\Desktop\BootCamp\Programming\SnackGame\SnackGame\obj\Debug\net10.0\SnackGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BootCamp\Programming\SnackGame\SnackGame\obj\Debug\net10.0\SnackGame.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BootCamp\Programming\SnackGame\SnackGame\obj\Debug\net10.0\SnackGame.AssemblyInfo.cs
+C:\Users\user\Desktop\BootCamp\Programming\SnackGame\SnackGame\obj\Debug\net10.0\SnackGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BootCamp\Programming\SnackGame\SnackGame\obj\Debug\net10.0\SnackGame.sourcelink.json
+C:\Users\user\Desktop\BootCamp\Programming\SnackGame\SnackGame\obj\Debug\net10.0\SnackGame.dll
+C:\Users\user\Desktop\BootCamp\Programming\SnackGame\SnackGame\obj\Debug\net10.0\refint\SnackGame.dll
+C:\Users\user\Desktop\BootCamp\Programming\SnackGame\SnackGame\obj\Debug\net10.0\SnackGame.pdb
+C:\Users\user\Desktop\BootCamp\Programming\SnackGame\SnackGame\obj\Debug\net10.0\SnackGame.genruntimeconfig.cache
+C:\Users\user\Desktop\BootCamp\Programming\SnackGame\SnackGame\obj\Debug\net10.0\ref\SnackGame.dll
